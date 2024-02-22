@@ -50,7 +50,7 @@ A passionate programmer and developer, with special interests in cybersecurity, 
 ## Stats :chart_with_upwards_trend:
 
 <img align = "left" alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=BonfantiStefano&show_icons=true">
-<img align = "left" alt = "GitHub Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BonfantiStefano">
+<!-- <img align = "left" alt = "GitHub Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BonfantiStefano"> -->
 
 <!--
 **BonfantiStefano/BonfantiStefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
